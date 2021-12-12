@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DioPooAula2/1.0.0": {
+        "runtime": {
+          "DioPooAula2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DioPooAula2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

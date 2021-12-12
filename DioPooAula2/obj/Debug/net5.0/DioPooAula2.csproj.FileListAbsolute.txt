@@ -1,0 +1,16 @@
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\bin\Debug\net5.0\DioPooAula2.exe
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\bin\Debug\net5.0\DioPooAula2.deps.json
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\bin\Debug\net5.0\DioPooAula2.runtimeconfig.json
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\bin\Debug\net5.0\DioPooAula2.runtimeconfig.dev.json
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\bin\Debug\net5.0\DioPooAula2.dll
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\bin\Debug\net5.0\ref\DioPooAula2.dll
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\bin\Debug\net5.0\DioPooAula2.pdb
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\DioPooAula2.csproj.AssemblyReference.cache
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\DioPooAula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\DioPooAula2.AssemblyInfoInputs.cache
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\DioPooAula2.AssemblyInfo.cs
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\DioPooAula2.csproj.CoreCompileInputs.cache
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\DioPooAula2.dll
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\ref\DioPooAula2.dll
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\DioPooAula2.pdb
+C:\Users\jadia\source\repos\DioPooAula2\DioPooAula2\obj\Debug\net5.0\DioPooAula2.genruntimeconfig.cache
