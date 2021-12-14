@@ -6,11 +6,17 @@ namespace DioPooAula2.Models
     {
         public delegate void DelegateCalculadora(); //delegate
 
-        //public static event DelegateCalculadora EventoCalculadora;
+        public static event DelegateCalculadora EventoCalculadora; //evento
 
         public static void Somar(int x, int y) //metdodo
         {
-            Console.WriteLine($"Soma é {x + y}");
+            if (EventoCalculadora != null)
+            {
+                Console.WriteLine($"Soma é {x + y}");
+                EventoCalculadora();
+            }
+            else
+                Console.WriteLine("Nenhum inscrito.");
             
         }
 

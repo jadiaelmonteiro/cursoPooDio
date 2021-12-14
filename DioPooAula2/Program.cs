@@ -10,10 +10,14 @@ namespace DioPooAula2
         static void Main(string[] args)
         {
 
-           //Operacao op = Calculadora.Somar; pode ser feito sem o new.
-            Operacao op = new Operacao(Calculadora.Somar); // chamando metodo calculadora.somar, atraves do delegate
-            op += Calculadora.Subtrair; // muliinvoke chamando mais um metodo sem perder as informações anteriores
-            op.Invoke(20, 10); //ordem fifo (primeiro o somar e depois o subtrair (ordem de fila)
+            Matematica m = new Matematica(10, 20); //instanciando 
+            m.Somar();
+
+
+            //Operacao op = Calculadora.Somar; pode ser feito sem o new.
+            //Operacao op = new Operacao(Calculadora.Somar); // chamando metodo calculadora.somar, atraves do delegate
+            //op += Calculadora.Subtrair; // muliinvoke chamando mais um metodo sem perder as informações anteriores
+            //op.Invoke(20, 10); //ordem fifo (primeiro o somar e depois o subtrair (ordem de fila)
 
             //const double Pi = 1.13; //constante seu valor não pode ser alterado
             //Console.WriteLine(Pi); 
